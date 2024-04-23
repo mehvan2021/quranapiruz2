@@ -3,15 +3,16 @@
 {"name":"bayt","icon":"https://secure.b8cdn.com/images/logo/48/1480348_logo_20220227112718_n.png","id":"2", "link":"https://www.evtc-krg.org/Job/Vacancies"},
 {"name":"Hawa Jobs","icon":"https://www.hawa.jobs/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1RaUEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e38c5fc91d1360b4414c964060badb41e30c2f28/logo.png","id":"3", "link":"https://www.hawa.jobs/jobs/?source=google.com"},
 {"name":"Works - Jobs","icon":"https://works-jobsiq.com/sitesetting_images/thumb/works-jobs-1670718428-887.jpg","id":"4", "link":"https://works-jobsiq.com/jobs"},
-{"name":"Online Job Portal","icon":"https://www.evtc-krg.org/Theme/images/home-left.jpg","id":"5", "link":"https://www.bayt.com/en/iraq/"},
-{"name":"AUK","icon":"https://auk.edu.krd/wp-content/themes/auk/images/logo2.png","id":"6", "link":"https://auk.edu.krd/employment/"},
-{"name":"BCF","icon":"https://bcf.krd/wp-content/uploads/2020/11/BCF-LOGO-landscape-120x44.png","id":"7", "link":"https://bcf.krd/vacancies/"},
-{"name":"Erbil Man Power","icon":"https://erbilmanpower.com/static/image/logo.png","id":"8", "link":"https://erbilmanpower.com/jobs.aspx"},
-{"name":"IOM UN","icon":"https://logowik.com/content/uploads/images/iom-un-migration795.logowik.com.webp","id":"9", "link":"https://iraq.iom.int/careers"},
-{"name":"UN Jobs","icon":"https://pbs.twimg.com/profile_images/217050350/twlogo_400x400.png","id":"10", "link":"https://unjobs.org/duty_stations/iraq"},
-{"name":"UNDP JOBS","icon":"https://www.undp.org/sites/g/files/zskgke326/files/migration/jposc/UNDP-Logo-Blue-Large-Transparent.png","id":"11", "link":"https://undpjobs.net/country/Iraq"},
-{"name":"IQJ SCOUT","icon":"https://iqjscout.com/wp-content/uploads/2021/04/907x300-1.png","id":"12", "link":"https://iqjscout.com"},
-{"name":"mselect","icon":"https://assets-global.website-files.com/63e130c2e86e36f30fb031a7/63f9101baf30e65e1ea8242f_Logo-Mselect-1.png","id":"13", "link":"https://www.mselect.com/jobs"}
+{"name":"Jobs Krd","icon":"https://media.licdn.com/dms/image/D4E0BAQG7oJpVmpdDEw/company-logo_200_200/0/1700399572617/jobs_krd_logo?e=2147483647&v=beta&t=EPzhNkRPMkkfBcNSHcWVlnWhUz5-VIbyqRmdL2tSu2U","id":"5", "link":"https://jobs.krd/explore-jobs"},
+{"name":"Online Job Portal","icon":"https://www.evtc-krg.org/Theme/images/home-left.jpg","id":"7", "link":"https://www.bayt.com/en/iraq/"},
+{"name":"AUK","icon":"https://auk.edu.krd/wp-content/themes/auk/images/logo2.png","id":"8", "link":"https://auk.edu.krd/employment/"},
+{"name":"BCF","icon":"https://bcf.krd/wp-content/uploads/2020/11/BCF-LOGO-landscape-120x44.png","id":"9", "link":"https://bcf.krd/vacancies/"},
+{"name":"Erbil Man Power","icon":"https://erbilmanpower.com/static/image/logo.png","id":"10", "link":"https://erbilmanpower.com/jobs.aspx"},
+{"name":"IOM UN","icon":"https://logowik.com/content/uploads/images/iom-un-migration795.logowik.com.webp","id":"11", "link":"https://iraq.iom.int/careers"},
+{"name":"UN Jobs","icon":"https://pbs.twimg.com/profile_images/217050350/twlogo_400x400.png","id":"12", "link":"https://unjobs.org/duty_stations/iraq"},
+{"name":"UNDP JOBS","icon":"https://www.undp.org/sites/g/files/zskgke326/files/migration/jposc/UNDP-Logo-Blue-Large-Transparent.png","id":"13", "link":"https://undpjobs.net/country/Iraq"},
+{"name":"IQJ SCOUT","icon":"https://iqjscout.com/wp-content/uploads/2021/04/907x300-1.png","id":"14", "link":"https://iqjscout.com"},
+{"name":"mselect","icon":"https://assets-global.website-files.com/63e130c2e86e36f30fb031a7/63f9101baf30e65e1ea8242f_Logo-Mselect-1.png","id":"15", "link":"https://www.mselect.com/jobs"}
 
 
   ]}
